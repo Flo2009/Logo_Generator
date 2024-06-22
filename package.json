@@ -1,0 +1,22 @@
+{
+  "name": "svglogofilegenerator",
+  "version": "1.0.0",
+  "description": "creates svg files",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github/Flo2009"
+  },
+  "author": "Flo2009",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "validate-color": "^2.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
