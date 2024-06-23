@@ -82,6 +82,10 @@ Test are available in the test folder.
 Cd into the folder and run them in a local terminal
 with npm test "name of the test".
 
+Video of all tests please follow the link below:
+
+https://app.screencastify.com/v3/watch/z6sZvjHCl0AVgQiiG50S
+
 See below example videos:
 
 ![Test Circle](/src/Images/testCircle.gif)
